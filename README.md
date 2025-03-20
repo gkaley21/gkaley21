@@ -1,6 +1,6 @@
  Hi there 👋
 
-My name is Gabe, I'm an aspiring IT professional trying to learn and demostrate my progress.
+My name is Gabriel, I'm an aspiring IT professional trying to learn and demostrate my progress.
 
 - 🔭 I’m currently working on python projects.
  - 🤔 I’m currenlty learning intermediate python and HTML
