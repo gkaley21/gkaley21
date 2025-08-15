@@ -3,7 +3,7 @@
 My name is Gabriel, I'm an IT professional trying to learn and demostrate my progress.
 
 - 🔭 I’m currently working on python projects.
- - 🤔 I’m currenlty learning intermediate python and HTML
+ - 🤔 I’m currenlty learning intermediate python
  -  📫 How to reach me: akg112033@gmail.com
    
 <!--
